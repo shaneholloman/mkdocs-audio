@@ -4,6 +4,10 @@ This plugin allows you to embed audios on the documentation pages using a simple
 
 ## Installation
 
+```sh
+pip install mkdocs-audio
+```
+
 Enable the plugin in the `mkdocs.yml` file:
 
 ``` yaml
